@@ -1,0 +1,20 @@
+Common Log Format
+Digital traces		112
+Event Viewer		321
+Digital traces		332
+Event Viewer		332
+Java Logging Frameworks – logging frameworks for Java
+Digital traces		123 
+Event Viewer		123
+.NET Logging Frameworks - logging frameworks for .NET
+List of web analytics software 12312
+Logbook
+Log4J
+Log management and intelligence
+Logging as a Service (LaaS)
+Pantheios – logging API library
+Runtime intelligence
+Server log
+Web counter
+Web log analysis software
+XML log

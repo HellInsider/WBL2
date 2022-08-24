@@ -1,0 +1,9 @@
+data_separated_by_this symbol
+1231 aa_44
+412451 ab 321
+5454 abc _ 123
+231 abe 4515
+231 _ bca 112
+231 bca 112
+2 rre 3321
+2 rre 3321

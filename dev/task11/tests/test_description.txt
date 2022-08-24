@@ -1,0 +1,18 @@
+test1.sh
+->creates 3 users {1,2,3} in day 2019-09-09 (*)
+->create 3 users {1,2,3} in days {2019-09-10, 2019-09-11, 2019-09-12} 
+->creates 3 users {1,2,3} in days {2019-09-01, 2019-09-19, 2019-09-29}
+
+test2.sh
+->moves first 3 events from 2019-09-09 to 2019-09-10, then changes title and changes user in 3-rd even from 3 to 1
+
+test3.sh
+->deletes first 3 events (pointed by '*')
+
+
+##
+http://localhost:8080/events_for_day?&user_id=1&date=2019-09-09
+http://localhost:8080/events_for_day?&user_id=2&date=2019-09-09
+http://localhost:8080/events_for_day?&user_id=3&date=2019-09-09
+
+http://localhost:8080/events_for_month?&user_id=1&date=2019-09-09
